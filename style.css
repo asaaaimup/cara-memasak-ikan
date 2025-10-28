@@ -1,0 +1,22 @@
+body {
+    background-color: #e6b3ff; /* warna ungu soft pastel
+    font-family: Arial, sans serif; /* jenis huruf yang mudah dibaca untuk judul ikan nila
+    color: #ffb3d1; /* Warna teks utama (merah muda)
+}
+
+.kartu-profil }
+    widht: 300px;
+    margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan
+    padding: 20px;
+    background-color: pink;
+    border-radius: 15px; /* Membuat sudut menjadi melengkung*/
+    box-shadow: 0 4px 8px rgba(0,0,0,0.10); /* efek bayangan*/
+    text-align: center; /*menengahkan semua teks*/
+)
+
+
+.kartu-profil img {
+  widht: 150px
+  border-radius: 50%; /* Trik membuat gambar persegi menjadi lingkaran sempurna */
+
+}
